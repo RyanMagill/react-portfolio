@@ -12,16 +12,40 @@ import './portfolio.css';
 
 const items = [
   {
-    src: './public/Assets/Budget Backpacker.png',
+    src: 'https://via.placeholder.com/1000x200',
     altText: 'Budget Backpacker',
     caption: 'Budget Backpacker',
     github: 'https://backpackertraveler.herokuapp.com/',
   },
   {
-    src: '/imgs/screenshot-project1.png',
+    src: 'https://via.placeholder.com/1000x200',
     altText: 'Design-a-Date',
     caption: 'Design-a-Date',
     github: 'https://christopherneill.github.io/GroupProject/',
+  },
+  {
+    src: 'https://via.placeholder.com/1000x200',
+    altText: 'Scheduler',
+    caption: 'Scheduler',
+    github: 'https://christopherneill.github.io/GroupProject/',
+  },
+  {
+    src: 'https://via.placeholder.com/1000x200',
+    altText: 'Readme Generator',
+    caption: 'Readme Generator',
+    github: 'https://github.com/RyanMagill/Readme-Generator',
+  },
+  {
+    src: 'https://via.placeholder.com/1000x200',
+    altText: 'Budget-Tracker',
+    caption: 'Budget-Tracker',
+    github: 'https://github.com/RyanMagill/Budget-Tracker',
+  },
+  {
+    src: 'https://via.placeholder.com/1000x200',
+    altText: 'Employee-Directory',
+    caption: 'Employee-Directory',
+    github: 'https://github.com/RyanMagill/EmployeeDir',
   },
 ];
 
