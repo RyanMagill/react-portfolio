@@ -10,7 +10,7 @@ export class Home extends Component {
         <Container className="aboutMe">
           <h2>About Me:</h2>
           <Row>
-            <img src="./public/Assets/Portfolio-Pic.jpg" alt="Portfolio" />
+            <img src="./public/img/Portfolio-Pic.jpg" alt="Portfolio" />
             <Col>
               <p>
                 My name is Ryan Magill. I am currently a student of the University of Texas' 

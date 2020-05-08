@@ -1,0 +1,14 @@
+.contact {
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+  border: 1px solid black;
+  min-height: 400px;
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 5%;
+  padding: 10px;
+}
+
+.contact h2 {
+  color: blue;
+  padding: 20px;
+}
